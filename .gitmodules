@@ -1,0 +1,3 @@
+[submodule "nr"]
+	path = nr
+	url = git@github.com:itchenfei/nr.git
